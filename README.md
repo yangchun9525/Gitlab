@@ -11,6 +11,6 @@ Gitlab
 ---
 1.打开git.bash执行
 
-    ssh-keygen -t rsa -C "1434088223@qq.com" -b 4096<br>
+    ssh-keygen -t rsa -C "你的邮箱" -b 4096<br>
 2.当设置passphrase时，直接跳过<br>
 3.打开id_rsa.pub文件，里面的key就是ssh<br>
